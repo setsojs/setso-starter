@@ -1,7 +1,7 @@
 {
-  "name": "setso-template",
+  "name": "template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Recommended template to start using setso with vite.",
   "main": "index.js",
   "type": "module",
   "scripts": {
