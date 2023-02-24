@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "setso": "0.2.5-fix-2",
-    "vite": "^4.0.4"
+    "setso": "^0.4.2",
+    "vite": "^4.1.4"
   }
 }
